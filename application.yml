@@ -20,4 +20,4 @@ microservice:
   item-service:
     endpoints:
       endpoint:
-        uri: http://ITEM-SERVICE/tem/addItem
+        uri: http://ITEM-SERVICE/item/addItem
